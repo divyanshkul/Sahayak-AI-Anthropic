@@ -1,3 +1,6 @@
 [submodule "sahayak-frontend"]
 	path = sahayak-frontend
 	url = https://github.com/kkrishna007/sahayak-frontend
+[submodule "Sahayak-Mobile"]
+	path = Sahayak-Mobile
+	url = git@github.com:divyanshkul/Sahayak-Anthropic-Flutter.git
